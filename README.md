@@ -25,6 +25,8 @@ I am a Master of Science student at Mines Paris - PSL, specializing in Machine L
 
 ### 🚀 Highlighted Projects
 
+Note: Some of my most impactful work (generative vision pipelines, speaker verification systems) was developed during research and industry internships and remains proprietary. I would be glad to discuss the technical details upon request.
+
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[Evaluating Distances Between LLM Generations](https://github.com/lucbrd8/wasserstein-distance-llm)** | Research project at CEMEF (Mines Paris) comparing diffusion and autoregressive LLMs using sentence-level embeddings and Wasserstein distance. | `PyTorch` `Diffusers` `Transformers` |
